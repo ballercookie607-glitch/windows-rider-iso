@@ -1,0 +1,23 @@
+{
+  "edition": "Community",
+  "version": "latest",
+  "installPath": "C:\\JetBrains\\Rider",
+  "plugins": [
+    "git4idea",
+    "com.intellij.plugins.github",
+    "com.intellij.plugins.gradle",
+    "com.intellij.plugins.maven"
+  ],
+  "settings": {
+    "useDefault": true,
+    "theme": "Darcula",
+    "createDesktopShortcut": true,
+    "addToPath": true,
+    "associateFileTypes": true,
+    "runAtStartup": false
+  },
+  "jdk": {
+    "use": "bundled",
+    "version": "17"
+  }
+}
