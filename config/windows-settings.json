@@ -1,0 +1,33 @@
+{
+  "installation": {
+    "language": "en-US",
+    "timezone": "UTC",
+    "edition": "Professional",
+    "autoUpdate": true
+  },
+  "features": [
+    "NetFx3",
+    "VirtualMachinePlatform",
+    "WindowsSubsystemForLinux"
+  ],
+  "drivers": {
+    "autoInstall": true,
+    "paths": []
+  },
+  "networking": {
+    "setHostname": true,
+    "hostname": "RIDER-WORKSTATION",
+    "enableRemoteDesktop": false,
+    "enableWinRM": false
+  },
+  "security": {
+    "enableFirewall": true,
+    "enableDefender": true,
+    "enableAutomaticUpdates": true
+  },
+  "userAccounts": {
+    "administratorPassword": "P@ssw0rd!",
+    "autoLogon": true,
+    "autoLogonCount": 1
+  }
+}

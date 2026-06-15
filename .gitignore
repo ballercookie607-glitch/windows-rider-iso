@@ -1,0 +1,27 @@
+# Build artifacts
+output/
+work/
+*.iso
+*.wim
+
+# Downloaded files
+*.exe
+*.zip
+*.7z
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+
+# Local configuration overrides
+local-config.json

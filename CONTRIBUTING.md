@@ -11,7 +11,7 @@ Thank you for your interest in contributing! Here's how you can help:
 ## Development Guidelines
 
 ### Code Style
-- PowerShell scripts should follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) principles adapted for PowerShell
+- PowerShell scripts should follow best practices
 - Use descriptive variable names
 - Add comments for complex logic
 - Include error handling
